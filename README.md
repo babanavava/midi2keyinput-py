@@ -12,7 +12,7 @@ pythonでMIDI入力を長押しなどにも対応可能なキーボード入力�
 
 次にPowerShellでこのリポジトリをクローンしたい場所に移動した後で
 ```PowerShell
-> git clone && cd 
+> git clone https://github.com/babanavava/midi2keyinput-py.git && cd midi2keyinput-py
 > py -m venv .venv
 > .venv/Scripts/activate
 > py -m pip install -U pip setuptools
