@@ -1,7 +1,7 @@
+import sys
+import keyboard
 import pygame
 import pygame.midi
-import keyboard
-import sys
 
 # 以下のキーは好みに応じて変更することが出来ます
 midi_to_key = {
