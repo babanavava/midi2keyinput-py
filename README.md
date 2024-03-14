@@ -19,3 +19,7 @@ pythonでMIDI入力を長押しなどにも対応可能なキーボード入力�
 > py -m pip install -r requirements.txt
 > py midi2keyinput.py
 ```
+
+midi2keyinput.pyの中のinput_device_idは動作しない場合には変えてみてください。
+
+キー配置もお好みに変更してください。
